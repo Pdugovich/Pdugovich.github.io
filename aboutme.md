@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My name is Patrick Dugovich... 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Data Scientist currently enrolled in Lambda School, expecting to graduate Summer 2020.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I was born in Elyria, Ohio, but have since moved a whole 20 miles east to Lakewood, a suburb of Cleveland. I live here with my girlfriend and our two children (cats) Toph and Pedro. 
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In the brief interludes between the school week and working the weekends, I find time to work out in my modest home gym, enjoy Lakewood with my friends, and have nights in (UberEats and Netflix) with my girlfriend. 
