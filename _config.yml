@@ -69,11 +69,11 @@ author:
 social-network-links:
   rss: true
   email: "pdugovich@Gmail.com"
-  facebook: Null
-  github: daattali
-  twitter: Null
+# facebook: Null
+  github: PDugovich
+#  twitter: Null
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: PDugovich
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -87,8 +87,8 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: False
+  facebook: False
   linkedin: true
 
 # How to display the link to the website in the footer
