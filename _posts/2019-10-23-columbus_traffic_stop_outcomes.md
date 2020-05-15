@@ -128,6 +128,6 @@ Expanded feature chart
 
 Of course! The most direct way to improve the model is by having more data. Feature engineering is great, but can only get you so far. 
 There are many features I wish I had, 'number_of_hours_since_officer_last_ate' and 'big_5_personality_score_of_officer' are just a _little_ difficult to get a hold of, but would probably be immensely useful in making outcome predictions.
-Data that likely exists and would be helpful, but I don't have access to are things like the subject's 'date_of_birth', 'model_of_vehicle', 'year_of_vehicle', 'color_of_vehicle' also the exact identification of the officer would be great, but aside from that, 'officer_race, 'officer_sex', 'officer_years_on_force'. Along with those, I'd like more information on road and weather conditions, whether they were driving through construction or school zones. 
+Data that likely exists and would be helpful, but I don't have access to are things like the subject's 'date_of_birth', 'model_of_vehicle', 'year_of_vehicle', 'color_of_vehicle' also the exact identification of the officer would be great, but aside from that, 'officer_race', 'officer_sex', 'officer_years_on_force'. Along with those, I'd like more information on road and weather conditions, whether they were driving through construction or school zones. 
 
 Ultimately, this dataset was interesting,  but I'd need a lot data to be confident in predictions I draw from it.
