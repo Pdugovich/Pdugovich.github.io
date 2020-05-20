@@ -21,6 +21,7 @@ description: Data Science is my Game
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Resume: "Resume Github"
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
