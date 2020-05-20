@@ -4,9 +4,11 @@ title: About me
 subtitle: My name is Patrick Dugovich... 
 ---
 
-I am a Data Scientist who has recently graduated from Lambda School and is currently looking for a career opportunity that would be a good fit.
+### A little about me... 
+I am a data scientist with an emphasis on machine learning, data visualization, and predictive modeling.
 
-### A little about me
-I was born in Elyria, Ohio, but have since moved a whole 20 miles east to Lakewood, a suburb of Cleveland. I live here with my girlfriend and our two children (cats) Toph and Pedro. 
+Prior to becoming a data scientist, I worked as a wheel-chair ramp installer, and a toll booth worker. It was when I began working in a toll booth, that I really appreciated the way automation and technology can improve all of our lives. I was working in one of the most automate-able jobs imaginable!
 
-In the brief interludes between the school week and working the weekends, I find time to work out in my modest home gym, enjoy Lakewood with my friends, and have nights in (UberEats and Netflix) with my significant other.
+I've always loved statistics, and the idea that individual data points might be meaningless, but if you have enough of the, and over a long enough period of time, you gain insights about the past, and even predict the future (within some confidence interval!).
+
+When I'm not learning as much as I can about data science, you can find me trying to keep myself otherwise entertained in the confines of my apartment with my girlfriend and two cats. In another time, I enjoyed going to the gym, rock climbing, and exploring my city. Hopefully we'll be back to that time soon.
