@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: My name is Patrick Dugovich... 
+title: About me 
 ---
 
-### A little about me... 
+### Ny name is Patrick Dugovich... 
 I am a data scientist with an emphasis on machine learning, data visualization, and predictive modeling.
 
 Prior to becoming a data scientist, I worked as a wheel-chair ramp installer, and a toll booth worker. It was when I began working in a toll booth, that I really appreciated the way automation and technology can improve all of our lives. I was working in one of the most automate-able jobs imaginable!
