@@ -138,4 +138,4 @@ Ultimately, this dataset was interesting,  but I'd need a lot data to be confide
 
 ## Code Base
 
-The code can be found at: https://github.com/Pdugovich/Columbus_Traffic_Stops_Project_Repo
+The code can be found here: [Code Base](https://github.com/Pdugovich/Columbus_Traffic_Stops_Project_Repo)
