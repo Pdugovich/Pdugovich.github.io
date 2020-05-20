@@ -7,7 +7,7 @@ comments: true
 
 ## The Project
 
-I served as a data engineer on a project to predict the optimal price for an AirBnB rental unit in Berlin. I deployed a Flask API to take JSON inputs from the web development front end, transform those inputs to be used in a serialized Random Forest model, then output the results of the model to the backend developer to be stored in a user's profile along with their 
+I served as a data engineer on a project to predict the optimal price for an AirBnB rental unit in Berlin. I deployed a Flask API to take JSON inputs from the web development front end, transform those inputs to be used in a serialized Random Forest model, then output the results of the model to the backend developer to be stored in a user's profile.
 
 This was a great project, and my first experience with a cross-disciplinary team, working with other data scientists and web developers. 
 
