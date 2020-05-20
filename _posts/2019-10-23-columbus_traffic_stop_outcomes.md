@@ -131,3 +131,11 @@ There are many features I wish I had, 'number_of_hours_since_officer_last_ate' a
 Data that likely exists and would be helpful, but I don't have access to are things like the subject's 'date_of_birth', 'model_of_vehicle', 'year_of_vehicle', 'color_of_vehicle' also the exact identification of the officer would be great, but aside from that, 'officer_race', 'officer_sex', 'officer_years_on_force'. Along with those, I'd like more information on road and weather conditions, whether they were driving through construction or school zones. 
 
 Ultimately, this dataset was interesting,  but I'd need a lot data to be confident in predictions I draw from it.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+## Code Base
+
+The code can be found at: https://github.com/Pdugovich/Columbus_Traffic_Stops_Project_Repo
